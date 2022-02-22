@@ -1,0 +1,21 @@
+{
+  "files": {
+    "main.css": "/food-order-react-demo%20%20/static/css/main.d6e5fb56.chunk.css",
+    "main.js": "/food-order-react-demo%20%20/static/js/main.4a28595d.chunk.js",
+    "main.js.map": "/food-order-react-demo%20%20/static/js/main.4a28595d.chunk.js.map",
+    "runtime-main.js": "/food-order-react-demo%20%20/static/js/runtime-main.dacd103c.js",
+    "runtime-main.js.map": "/food-order-react-demo%20%20/static/js/runtime-main.dacd103c.js.map",
+    "static/js/2.ff033d89.chunk.js": "/food-order-react-demo%20%20/static/js/2.ff033d89.chunk.js",
+    "static/js/2.ff033d89.chunk.js.map": "/food-order-react-demo%20%20/static/js/2.ff033d89.chunk.js.map",
+    "index.html": "/food-order-react-demo%20%20/index.html",
+    "static/css/main.d6e5fb56.chunk.css.map": "/food-order-react-demo%20%20/static/css/main.d6e5fb56.chunk.css.map",
+    "static/js/2.ff033d89.chunk.js.LICENSE.txt": "/food-order-react-demo%20%20/static/js/2.ff033d89.chunk.js.LICENSE.txt",
+    "static/media/meals.2971f633.jpg": "/food-order-react-demo%20%20/static/media/meals.2971f633.jpg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.dacd103c.js",
+    "static/js/2.ff033d89.chunk.js",
+    "static/css/main.d6e5fb56.chunk.css",
+    "static/js/main.4a28595d.chunk.js"
+  ]
+}
